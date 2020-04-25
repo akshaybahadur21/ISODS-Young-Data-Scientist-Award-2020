@@ -5,4 +5,5 @@ This repository contains the link and article for The Most Influential Young Dat
 
 ## [Link](https://www.isods.org/news-times/item/16-the-most-influential-young-data-scientist-of-the-year) | [PDF](https://github.com/akshaybahadur21/ISODS-Young-Data-Scientist-Award-2020/blob/master/isods-award.pdf)
 
+### [TFUG Kolkata Tweet](https://twitter.com/TFUGKol/status/1252850678877130755)
 <img src="https://github.com/akshaybahadur21/ISODS-Young-Data-Scientist-Award-2020/blob/master/isods-award.jpg">
